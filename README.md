@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there 👋, I'm Marko, known as Meda.
 
-<!--
-**Medakekw/Medakekw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer from Serbia.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on getting my professional skills to a higher level.
+- 🏫 I'm studying Software Engineering at Metropolitan University Belgrade, Serbia.
+- 👯 I’m looking to collaborate on [What You Want To Collaborate On]
+- 🤔 I’m looking for help with learning professional Data Science and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ My Skills
+
+### Languages
+
+- Python
+- C/C++
+- Java
+
+### Frameworks and Libraries
+
+- Tensorflow
+- Pytorch
+- Flask
+
+### Tools
+
+- Visual Studio Code
+- Microsoft Visual Studio IDE
+- Pycharm
+
+## 📈 GitHub Stats
+
+!Your GitHub stats
+
+!Top Langs
