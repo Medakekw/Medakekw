@@ -1,7 +1,7 @@
-#👋 Hey there, I'm Meda.
 
+# 👋 Hey there, I'm Meda.
 
-
+```
     .--.
    |o_o |
    |:_/ |
@@ -11,7 +11,7 @@
 \___)=(___/
 
 Pacman -Syu happiness
-
+```
 
 I'm a 2nd-year Software Engineering student at Metropolitan University Belgrade who **uses Arch BTW** 😏.
 
@@ -53,4 +53,5 @@ I'm a 2nd-year Software Engineering student at Metropolitan University Belgrade 
 ```python
 while True:
     print("Trying to exit Vim...")
-
+```
+May your code compile on the first try.
