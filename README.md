@@ -1,35 +1,56 @@
-# Hi there 👋, I'm Marko, known as Meda.
-
-I'm a Software Engineer from Serbia.
-
-- 🔭 I’m currently working on getting my professional skills to a higher level.
-- 🏫 I'm studying Software Engineering at Metropolitan University Belgrade, Serbia.
-- 👯 I’m looking to collaborate on [What You Want To Collaborate On]
-- 🤔 I’m looking for help with learning professional Data Science and Machine Learning.
+# # 👋 Hey there, I'm Meda.
 
 
-## 🛠️ My Skills
 
-### Languages
+    .--.
+   |o_o |
+   |:_/ |
+  //   \ \
+ (|     | )
+/'\_   _/`\
+\___)=(___/
 
-- Python
-- C/C++
-- Java
+Pacman -Syu happiness
 
-### Frameworks and Libraries
 
-- Tensorflow
-- Pytorch
-- Flask
+I'm a 2nd-year Software Engineering student at Metropolitan University Belgrade who **uses Arch BTW** 😏.
 
-### Tools
+## 🚀 About Me
 
-- Visual Studio Code
-- Microsoft Visual Studio IDE
-- Pycharm
+- 🔭 I’m currently working on mastering **Vim** (why exit when you can stay forever?)
+- 🌱 I’m developing on **Linux** because windows are for houses 🏠
+- 💬 Ask me about anything, especially if it's about how cool **Arch Linux** is!
+- Also doing random projects 
 
-## 📈 GitHub Stats
+## 🛠️ Languages and Tools
 
-!Your GitHub stats
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-!Top Langs
+### 💻 IDEs/Editors
+
+![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+## 🎓 Education
+
+- **Metropolitan University Belgrade**
+  - *2nd Year Software Engineering Student*
+
+## 📫 How to reach me
+
+- Carrier pigeon works best, but emails are fine too!
+
+---
+
+*Fun Fact:*
+
+```python
+while True:
+    print("Trying to exit Vim...")
+
