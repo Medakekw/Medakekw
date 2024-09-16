@@ -1,4 +1,4 @@
-# # 👋 Hey there, I'm Meda.
+#👋 Hey there, I'm Meda.
 
 
 
